@@ -50,3 +50,23 @@ AgriShield uses Artificial Intelligence and computer vision techniques to analyz
 - Indian Council of Agricultural Research (ICAR)
 - Ministry of Agriculture & Farmers Welfare, Government of India
 - PlantVillage Crop Disease Dataset
+## Objectives
+
+- To develop an AI based system that can detect crop diseases from leaf images.
+- To help farmers identify plant diseases at an early stage.
+- To recommend organic fertilizers and natural treatments for affected crops.
+- To reduce the excessive use of chemical fertilizers and pesticides.
+- To promote sustainable and eco-friendly farming practices.
+- To improve overall crop productivity and farmer decision making.
+
+## Target Users
+
+- Farmers
+- Agricultural researchers
+- Farm monitoring centers
+- Smart agriculture systems
+- Agricultural students and institutions
+
+## Expected Outcome
+
+The AgriShield system will help farmers quickly identify crop diseases using image analysis. By providing organic fertilizer recommendations and treatment methods, the system supports sustainable agriculture while reducing farming costs and improving crop health.
