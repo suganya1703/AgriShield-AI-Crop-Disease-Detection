@@ -70,3 +70,19 @@ AgriShield uses Artificial Intelligence and computer vision techniques to analyz
 ## Expected Outcome
 
 The AgriShield system will help farmers quickly identify crop diseases using image analysis. By providing organic fertilizer recommendations and treatment methods, the system supports sustainable agriculture while reducing farming costs and improving crop health.
+## Advantages of AgriShield
+
+- Provides quick and accurate crop disease detection.
+- Helps farmers take action before the disease spreads.
+- Encourages the use of organic fertilizers and natural treatments.
+- Reduces dependency on harmful chemical pesticides.
+- Supports sustainable agricultural practices.
+- Improves crop quality and productivity.
+
+## Real World Application
+
+AgriShield can be used in real agricultural environments where farmers need fast and reliable crop monitoring. By using cameras or mobile devices to capture crop images, the system can analyze plant health and detect diseases instantly. This technology can help farmers, agricultural research centers, and smart farming systems maintain healthy crops and improve overall farm management.
+
+## Dataset Information
+
+The AI model used in AgriShield can be trained using publicly available plant disease datasets such as the PlantVillage dataset. These datasets contain thousands of crop leaf images categorized into healthy and diseased classes, which helps the model learn and identify different plant diseases effectively.
